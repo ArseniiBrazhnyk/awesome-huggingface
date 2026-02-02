@@ -69,6 +69,9 @@ This is a list of some wonderful open-source projects & applications integrated 
 * [TextFlint](https://github.com/textflint/textflint) (from Fudan) - A unified multilingual robustness evaluation toolkit for NLP.
 * [OpenAttack](https://github.com/thunlp/OpenAttack) (from THU) - An open-source textual adversarial attack toolkit.
 
+## 🔒 AI Security Tools
+* [Veritensor](https://github.com/ArseniiBrazhnyk/Veritensor) - Zero-trust security scanner for AI models. Verifies integrity against the Hub API, detects malware in Pickle/PyTorch files, and checks license compliance.
+
 ## 🔁 Style Transfer
 *Transfer the style of text! Now you know why it's called transformer?*
 * [Styleformer](https://github.com/PrithivirajDamodaran/Styleformer) - A neural language style transfer framework to transfer text smoothly between styles.
